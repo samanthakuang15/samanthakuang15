@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 I'm Samantha, an undergraduate student at Georgia Tech studying Computer Science!
 
 - 🔭 My threads are Info Internetworks and People! 
